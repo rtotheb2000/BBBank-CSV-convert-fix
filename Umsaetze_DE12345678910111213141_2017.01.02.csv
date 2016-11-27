@@ -1,0 +1,24 @@
+"BBBank eG"
+
+"Umsatzanzeige"
+
+"BLZ:";"12345678";;"Datum:";"10.01.2017"
+"Konto:";"2656744";;"Uhrzeit:";"10:37:52"
+"Abfrage von:";"Max Mustermann";;"Kontoinhaber:";"Max Mustermann"
+
+"Zeitraum:";"Alle Umsätze";"von:";;"bis:";
+"Betrag in EUR:";;"von:";" ";"bis:";" "
+"Sortiert nach:";"Buchungstag";"absteigend"
+
+"Buchungstag";"Valuta";"Auftraggeber/Zahlungsempfänger";"Empfänger/Zahlungspflichtiger";"Konto-Nr.";"IBAN";"BLZ";"BIC";"Vorgang/Verwendungszweck";"Kundenreferenz";"Währung";"Umsatz";" "
+"09.01.2017";"09.01.2017";"Max Mustermann";"Max Mustermann";;;;;"EURO-UEBERWEISUNG
+Übertrag TAN:248764 IBAN: D
+E12345678910111213141 BIC:
+ABCDEFGHIJK";;"EUR";"1.000,00";"S"
+"09.01.2017";"09.01.2017";"Mustermann Max";"Irgendeine Institution";;;;;"Verwendungszweck 1
+Verwendungszweck 2
+IBAN: DE123456789101112131
+41 BIC: DEUTDEDB110";;"EUR";"1.000,00";"H"
+
+"01.01.2017";;;;;;;;;"Anfangssaldo";"EUR";"0,00";"H"
+"09.01.2017";;;;;;;;;"Endsaldo";"EUR";"0,00";"H"
