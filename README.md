@@ -53,7 +53,7 @@ Make sure you installed all the required python modules that are listed in `requ
 - put script and downloaded csv files in the same folder
 - open terminal at that folder and run `python3 BBBankCSV.py Umsaetze_DE12345678910111213141_2017.01.02.csv` to convert a single file
 - you can also pass multiple files like this `python3 BBBankCSV.py Umsaetze_DE12345678910111213141_2017.01.02_1.csv Umsaetze_DE12345678910111213141_2017.01.02_1.csv`
-- if you want to convert all csv files in this folder, you can run `python3 BBBankCSV.py Umsaetze_\*.csv`
+- if you want to convert all csv files in this folder, you can run `python3 BBBankCSV.py Umsaetze_\*.csv` (make sure in this case to have no previously fixed files in the folder)
 
 The input files will not be changed and new files will be created by the scheme `initialfilename_fixed.csv` in the same folder.
 
