@@ -1,10 +1,6 @@
 import os
 import sys
 import glob
-if sys.version_info[0] < 3:
-    from StringIO import StringIO
-else:
-    from io import StringIO
 import chardet
 import codecs
 
