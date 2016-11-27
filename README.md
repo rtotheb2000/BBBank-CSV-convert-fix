@@ -46,7 +46,7 @@ In addition to the above described conversion of the content of the file, the in
 
 ## How to use...
 
-This script has been tested using `Ubuntu` and `python3`. For now I will not try to make it compatible with `python2.7`, but it probably take little effort to do so.
+This script has been tested using `Ubuntu` and `python3`. For now I will not try to make it compatible with `python2.7`, but it probably takes little effort to do so.
 
 Make sure you installed all the required python modules that are listed in `requirements.txt`.
 
